@@ -8,6 +8,8 @@ The venerable Blackboard theme, from ye olde days of TextMate. This is a work in
 - ERB
 - YAML
 
+![Screenshot](blackboard-shadow.png)
+
 
 ## Maintainer
 
