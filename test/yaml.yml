@@ -1,0 +1,17 @@
+AllCops:
+  Include:
+    - 'app/**/*.rb'
+    - 'lib/**/*.rb'
+    - 'specs/**/*.rb'
+  Exclude:
+    - 'bin/**/*'
+    - 'config/**/*.rb'
+    - 'cookbooks/**/*.rb'
+    - 'db/**/*.rb'
+  RunRailsCops: true
+
+Lint/AmbiguousOperator:
+  Enabled: false
+
+Lint/AssignmentInCondition:
+  Enabled: false

@@ -1,0 +1,15 @@
+{
+  "name": "blackboard-shadow-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Blackboard theme implemented with Shadow DOM",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/blackboard-shadow-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
